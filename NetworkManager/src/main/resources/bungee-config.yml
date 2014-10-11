@@ -1,0 +1,93 @@
+groups:
+  harry5573:
+  - admin
+  Vaquxine:
+  - admin
+  IModZombies4Fun:
+  - admin
+  Serayne92:
+  - admin
+disabled_commands:
+- disabledcommandhere
+player_limit: 2000
+stats: b885e0c6-b98c-4f8e-9849-af86662c6fd9
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.send
+  - bungeecord.command.find
+  - bungeecord.command.glist
+  - bungeeutils.admin
+  - bungeeutils.bypassmaintenance
+  - bungeeutils.staffcolor
+  - bcb.*
+listeners:
+- query_port: 50001
+  motd: '&f&lCosmic PvP'
+  tab_list: SERVER
+  query_enabled: true
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  default_server: lobby1
+  bind_local_address: true
+  fallback_server: lobby2
+  host: 108.61.143.100:50001
+  max_players: 2000
+  tab_size: 60
+  force_default_server: false
+timeout: 30000
+connection_throttle: 3000
+servers:
+  lobby1:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.143.26:20000
+    restricted: false
+  lobby2:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.143.34:20001
+    restricted: false
+  lobby3:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.143.100:20001
+    restricted: false
+  lobby4:
+    motd: '&f&lCosmic PvP'
+    address: 216.155.130.226:20004
+    restricted: false
+  lobby5:
+    motd: '&f&lCosmic PvP'
+    address: 216.155.130.226:20005
+    restricted: false
+  lobby6:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.147.34:20006
+    restricted: false
+  lobby7:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.147.34:20007
+    restricted: false
+  alienplanet:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.143.26:20002
+    restricted: false
+  lavaplanet:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.143.34:50001
+    restricted: false
+  iceplanet:
+    motd: '&f&lCosmic PvP'
+    address: 108.61.141.202:10001
+    restricted: false
+  jungleplanet:
+    motd: '&f&lCosmic PvP'
+    address: 64.237.58.154:10001
+    restricted: false
+ip_forward: true
+online_mode: true

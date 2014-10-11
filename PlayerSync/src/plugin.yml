@@ -1,0 +1,6 @@
+name: PlayerSync
+description: Sync player inventories, player enderchests, player potion effects, player exp levels, player health, playermaxhealth and player food via MySQL.
+authors: [harry5573]
+depend: [Essentials, Vault, ArkhamPickaxes, ArkhamBags]
+version: 1.0
+main: org.arkhamnetwork.playersync.PlayerSync

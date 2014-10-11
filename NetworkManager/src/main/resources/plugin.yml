@@ -1,0 +1,4 @@
+name: NetworkManager
+version: 3.0
+main: me.vaqxine.NetworkManager.NetworkManager
+softdepend: [ArkhamPermissions]

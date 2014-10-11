@@ -1,0 +1,12 @@
+# PlayerSync configuration
+
+# Should the plugin work as just a library and not do anything?
+libraryMode: true
+
+# MySQL database information.
+database:
+    host: localhost
+    port: 3306
+    database: playersync
+    username: root   
+    password: ''

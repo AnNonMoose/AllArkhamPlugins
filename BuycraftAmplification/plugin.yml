@@ -1,0 +1,8 @@
+name: BuycraftAmplification
+main: me.vaqxine.BuycraftAmplification.BuycraftAmplification
+version: 1.0
+softdepend: [NetworkManager]
+commands:
+  logincommand:
+     description: Run command next time a user logs in or immediatly if they are availabe.
+     usage: /<command>

@@ -1,0 +1,32 @@
+# NetworkManager Configuration
+
+# Run a command.
+# ARK-password-runcmd->cmd_here
+
+# Save and restart the server after 60seconds worth of warnings.
+# ARK-password-reboot
+
+# Save and restart the server instantly.
+# ARK-password-forcereboot
+
+# Get all console log lines since the last time you requested.
+# ARK-password-consolelog
+
+# Get a list of the last reboots.
+# ARK-password-lastreboots
+
+# Get a json response of the server status.
+# ARK-password-status
+
+# Get a json response of the basic server status.
+# ARK-password-basicstatus
+
+# Download a file.
+# ARK-password-download@url->local_path
+
+# Configure your 'password'
+password: '6C84E9215294D6026037B29BB3F167B'
+
+# Configure your messages.
+restartMessage: '&8[&4ArkhamNetwork&8] &6That server is currently rebooting.'
+restartWarnMessage: '&d[Server] *** SERVER RESTARTING IN [time] SECONDS ***'

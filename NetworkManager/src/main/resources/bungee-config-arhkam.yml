@@ -1,0 +1,156 @@
+groups:
+  Vaquxine:
+  - admin
+  Serayne92:
+  - admin
+  Trigger1221:
+  - admin
+disabled_commands:
+- none
+player_limit: 3000
+stats: 2a5bc4d3-3713-4b11-8c52-6b4c054e8e95
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.send
+  - bungeecord.command.find
+  - bungeecord.command.glist
+  - bungeeutils.admin
+  - bungeeutils.bypassmaintenance
+  - bungeeutils.staffcolor
+  - bcb.*
+listeners:
+- fallback_server: hub3
+  default_server: hub2
+  query_enabled: true
+  query_port: 50000
+  host: 108.61.142.202:50000
+  max_players: 3000
+  tab_size: 60
+  force_default_server: true
+  bind_local_address: false
+  tab_list: SERVER
+  motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+    &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+    &a&l*'
+  forced_hosts:
+    gtacraft.me: gta-lobby1
+    mc.gtacraft.me: gta-lobby1
+    play.gtacraft.me: gta-lobby1
+    join.gtacraft.me: gta-lobby1
+  ping_passthrough: false
+timeout: 30000
+connection_throttle: -1
+servers:
+  hub1:
+    address: 108.61.142.202:30001
+    restricted: false
+    motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+      &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+      &a&l*'
+  hub2:
+    address: 108.61.142.202:30002
+    restricted: false
+    motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+      &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+      &a&l*'
+  hub3:
+    address: 108.61.142.210:30003
+    restricted: false
+    motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+      &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+      &a&l*'
+  hub4:
+    address: 108.61.142.210:30004
+    restricted: false
+    motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+      &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+      &a&l*'
+  hub5:
+    address: 108.61.142.218:30005
+    restricted: false
+    motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+      &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+      &a&l*'
+  hub6:
+    address: 108.61.142.218:30006
+    restricted: false
+    motd: '&7&l-=&a&l*&7&l=- &b&l&o» &e&l&oArkhamNetwork &b&l&o» &a&l&o1.7.10 &b&l&o»
+      &7&l-=&a&l*&7&l=-          &a&l* &fBrand New &b&l&nSKYBLOCK&r &fand &c&l&nPRISONS!&r
+      &a&l*'
+  build:
+    address: 108.61.142.194:30000
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  skywars:
+    address: 108.61.142.250:30011
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  skywars2:
+    address: 108.61.142.250:30012
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  kitpvp:
+    address: 108.61.143.2:30014
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  prison:
+    address: 108.61.140.226:30007
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  prison-plots:
+    address: 108.61.142.234:30008
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  prison2:
+    address: 108.61.140.226:30009
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  prison3:
+    address: 216.155.151.194:30010
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  prison4:
+    address: 216.155.151.194:30011
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  creative:
+    address: 108.61.143.42:30015
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  creative2:
+    address: 108.61.143.42:30016
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  factions:
+    address: 108.61.142.242:30010
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  factionsbravo:
+    address: 108.61.142.242:30018
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  skyblock:
+    address: 108.61.143.10:30017
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  prisonwars:
+    address: 108.61.143.2:30013
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  survival:
+    address: 108.61.143.10:30019
+    restricted: false
+    motd: '&1Just another BungeeCord - Forced Host'
+  skygrid:
+    motd: Skygrid
+    address: 108.61.143.10:30020
+    restricted: false
+ip_forward: true
+online_mode: true

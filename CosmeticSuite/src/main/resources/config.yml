@@ -1,0 +1,8 @@
+sql: 
+  db: arkham_cosmetics
+  host: localhost
+  port: 3306
+  password: vaqisgay
+  user: root
+  
+  
