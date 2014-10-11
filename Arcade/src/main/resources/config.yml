@@ -1,0 +1,25 @@
+#######################################
+######## Arcade Configuration #########
+#######################################
+
+# Define the server type.
+# Valid server types: SINGLE_GAMEMDOE
+SERVER_TYPE: SINGLE_GAMEMODE
+
+# Define the gamemodes the server will play if the server type supports gamemodes.
+GAMEMODES:
+- SKYWARS
+
+# Define where the webserver is located.
+WEBSERVER: 'https://arcade.arkhamnetwork.org/'
+
+# Configure the MySQL server
+MYSQL:
+    HOSTNAME: '127.0.0.1'
+    PORT: 3306
+    USER: root
+    PASSWORD: ''
+    DATABASENAME: 'arcade'
+    
+# The name of the current server.
+SERVERNAME: Skywars1

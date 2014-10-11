@@ -1,0 +1,18 @@
+#######################################
+#### Skywars Map Configuration ########
+#######################################
+
+# What is the minimum players required before the game starts?
+minPlayers: 4
+
+# The maximum players allowed to join the game.
+# This must be equal or lower to the number of spawns.
+maxPlayers: 8
+
+# How long in seconds should the timer be before the game starts when the minimum players are online:
+timerSeconds: 60
+
+# Configure the map authors.
+authors:
+    harry5573: 'Main map builder.'
+    Serayne92: 'Crazy ideas.'

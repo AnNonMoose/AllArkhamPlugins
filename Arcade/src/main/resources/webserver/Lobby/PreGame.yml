@@ -1,0 +1,36 @@
+#######################################
+##### PreGame Lobby Configuration #####
+#######################################
+
+# This is an advanced location, it has a yaw and pitch.
+spawn:
+  world: PreGameLobby
+  x: 0.6
+  y: 53
+  z: 0.6
+  yaw: 170
+  pitch: 0
+  
+# This is a string list of simple coordinate vectors.
+# World,X,Y,Z
+podiums:
+- PreGameLobby,11,53,-23
+- PreGameLobby,4,53,-26
+- PreGameLobby,-3,53,-26
+- PreGameLobby,-10,53,-23
+- PreGameLobby,-18,53,-18
+- PreGameLobby,-23,53,-10
+- PreGameLobby,-26,53,-3
+- PreGameLobby,-26,53,4
+- PreGameLobby,-23,53,11
+- PreGameLobby,-18,53,19
+- PreGameLobby,-10,53,24
+- PreGameLobby,-3,53,27
+- PreGameLobby,4,53,27
+- PreGameLobby,11,53,24
+- PreGameLobby,19,53,19
+- PreGameLobby,24,53,11
+- PreGameLobby,27,53,4
+- PreGameLobby,27,53,-3
+- PreGameLobby,24,53,-10
+- PreGameLobby,19,53,-18

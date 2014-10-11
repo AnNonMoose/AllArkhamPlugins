@@ -1,0 +1,7 @@
+name: Arcade
+description: ArkhamNetwork's mass Arcade lobby/gamemode manager.
+authors: [harry5573]
+website: www.arkhamnetwork.org
+prefix: Arcade
+version: 0.1-SNAPSHOT
+main: org.arkhamnetwork.arcade.core.Arcade

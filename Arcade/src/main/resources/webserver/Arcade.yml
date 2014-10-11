@@ -1,0 +1,13 @@
+#######################################
+######## Arcade Configuration #########
+#######################################
+
+# Please define your bungeecord lobby.
+bungeeLobbyServer: hub1
+
+# Please configure the sign that is used to teleport players to the lobby.
+lobbysignligns:
+  - '[Arcade]'
+  - 'Lobby'
+  - 'Teleport'
+  - ''
