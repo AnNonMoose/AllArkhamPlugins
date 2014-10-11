@@ -1,0 +1,19 @@
+################################################
+#                 GTAEconomy                   #
+#                                              #
+#                Developed by                  #
+#              IModZombies4Fun                 #
+#                                              #
+#                                              #
+#           http://www.gtacraft.me             #
+#                mc.gtacraft.me                #
+################################################
+
+# Configure the MySQL database
+SQL:
+  Host: localhost
+  DB: gta_economy
+  User: root
+  Port: 3306
+  Pass: ''
+  URL: 'jdbc:mysql://%host%:%port%/%db%?autoReconnect=true'

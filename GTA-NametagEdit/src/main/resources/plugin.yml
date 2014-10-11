@@ -1,0 +1,7 @@
+name: GTA-NametagEdit
+author: LeakedSource
+main: me.gtacraft.GTANametag
+version: 0.0.1
+commands:
+  setentitydisplaytag: {}
+  removeentitydisplaytag: {}

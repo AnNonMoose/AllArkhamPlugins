@@ -1,0 +1,4 @@
+name: GTA-Cars
+main: me.gtacraft.cars.CarsPlugin
+version: 0.5-Alpha
+depend: [ProtocolLib]

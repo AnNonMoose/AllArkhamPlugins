@@ -1,0 +1,4 @@
+name: BarAnnouncer
+version: 0.0.1
+author: LeakedSource
+main: me.gtacraft.plugins.barannouncer.BarAnnouncer

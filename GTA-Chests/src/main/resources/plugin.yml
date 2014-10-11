@@ -1,0 +1,4 @@
+name: GTAChests
+version: 1.0
+main: me.gtacraft.plugins.chests.GTAChests
+author: LeakedSource

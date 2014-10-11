@@ -1,0 +1,4 @@
+no-permission: '&c&l(!) &cYou do not have access to that command!'
+buy-rank:
+- '&eWant access to this command? Check out our store at...'
+- '&e&nGTACraft.me'

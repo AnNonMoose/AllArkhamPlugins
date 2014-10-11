@@ -1,0 +1,4 @@
+name: GTA-Giveall
+version: 0.0.1
+main: me.gtacraft.plugins.giveall.GTAGiveall
+author: LeakedSource

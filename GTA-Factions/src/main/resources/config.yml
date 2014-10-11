@@ -1,0 +1,12 @@
+SQL:
+  Host: '108.61.141.50'
+  DB: 'gta_gangs'
+  User: 'root'
+  Pass: 'jj59ziCx'
+  Port: 3306
+  URL: 'jdbc:mysql://%host%:%port%/%db%'
+
+InviteDuration: 30
+AutoSaveTime: 1800
+TeleportTime: 7
+ChatFormat: '&f<&a%GANG%&f>'

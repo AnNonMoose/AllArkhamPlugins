@@ -1,0 +1,5 @@
+name: GTA-Chest-Scanner
+main: me.gtacraft.plugins.chestscanner.ChestScanner
+version: 0.0.1
+commands:
+  scanchests: {}

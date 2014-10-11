@@ -1,0 +1,12 @@
+items:
+- id(360),data(0),amount(from(1-10)),percentSelect(100%),name(&a&l&nMagic Melon&r),lore(possible(&aTransforms in the night|&aGuarentee heart attack...|&aMakes a great pet|&aHelps you with your homework))
+- id(360),data(0),amount(from(1-10)),percentSelect(100%),name(&a&l&nMagic Melon&r),lore(possible(&aLooks AND feels fantastic|&aUse with caution|&aFood for the poor|&aThe ticket to success|&a1% natural|&aIt even does gymnastics))
+- id(360),data(0),amount(from(1-10)),percentSelect(100%),name(&a&l&nMagic Melon&r),lore(possible(&aFor that special someone|&aAll water no melon|&aGTA Superswag melon v1.0))
+
+worldBounds:
+  name: world
+  xMin: -1153
+  zMin: -639
+  xMax: 1153
+  zMax: 639
+runInterval: 1200

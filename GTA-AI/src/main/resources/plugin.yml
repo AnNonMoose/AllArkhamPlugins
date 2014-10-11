@@ -1,0 +1,5 @@
+name: GTA-AI
+version: 0.0.1
+main: me.gtacraft.npc.GTANpc
+softdepend: [Citizens]
+author: LeakedSource

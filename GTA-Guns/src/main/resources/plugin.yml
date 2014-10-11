@@ -1,0 +1,7 @@
+name: GTA-Guns
+version: 0.0.1
+author: LeakedSource
+main: me.gtacraft.GTAGuns
+commands:
+  guns:
+    aliases: [gtaguns, gun, weapon, weapons]

@@ -1,0 +1,5 @@
+name: GTA-Shop
+version: 0.0.1
+author: Vaquxine
+main: me.vaqxine.GTAShops.GTAShops
+softdepend: [Citizens, GTA-Guns, GTA-Economy]

@@ -1,0 +1,7 @@
+name: GTA-Donorperks
+main: me.gtacraft.plugins.donorperks.GTADonorperks
+version: 0.0.1
+author: LeakedSource
+commands:
+  boom:
+    aliases: [firework, prettycolors]

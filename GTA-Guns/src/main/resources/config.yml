@@ -1,0 +1,4 @@
+#Display name shown up on the guns name
+#{0} = gun name, {1} = clip ammo, {2} = total ammo
+gunItemDisplay: '&e&l{0} &e▪ &7{1}&f/&7{2} '
+reloadingText: '&c&lRELOADING'

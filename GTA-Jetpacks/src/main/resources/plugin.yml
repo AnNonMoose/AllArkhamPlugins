@@ -1,0 +1,6 @@
+name: GTA-Jetpacks
+version: 0.0.1
+main: me.gtacraft.plugins.jetpack.GTAJetpack
+author: LeakedSource
+commands:
+  givejetpack: {}

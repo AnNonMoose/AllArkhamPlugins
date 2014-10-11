@@ -1,0 +1,7 @@
+name: GTA-Hub
+version: 0.0.1
+main: me.gtacraft.plugins.hub.GTAHub
+author: LeakedSource
+softdepend: [WorldGuard, WorldEdit]
+commands:
+  addfountain: {}

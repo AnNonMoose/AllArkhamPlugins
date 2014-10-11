@@ -1,0 +1,7 @@
+name: GTA-Gangs
+authors: [LeakedSource, Vaquxine]
+main: me.gtacraft.plugins.gangs.GTAGangs
+version: 0.0.1
+commands:
+  gang:
+    aliases: [gangs, g]

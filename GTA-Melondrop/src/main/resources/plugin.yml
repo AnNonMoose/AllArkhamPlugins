@@ -1,0 +1,8 @@
+name: GTA-Melondrop
+main: me.gtacraft.plugins.melondrop.GTAMelondrop
+author: LeakedSource
+version: 1.0.0
+softdepend: [GTA-Guns, Safezone]
+commands:
+  melon:
+    aliases: [giantmagicalmelon,giantmelon,magicmelon]

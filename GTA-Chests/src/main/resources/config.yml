@@ -1,0 +1,4 @@
+items:
+- id(322),data(1),amount(from(1-64)),percentSelect(100%),enchantments(1-2|2-3|3-4),name(&4The Winner),lore(&cLine 1|&eLine 2|&bLine 3),isGun(false)
+itemCount: 1-10
+resetTime: 300

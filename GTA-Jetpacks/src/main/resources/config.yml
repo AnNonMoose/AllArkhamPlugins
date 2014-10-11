@@ -1,0 +1,11 @@
+######################
+# GTACraft Jetpacks
+# By: ImodZombies4Fun
+#######################
+
+jetpacks:
+  1: 'id(303),data(0),amount(1),name(&fCommon Jetpack)'
+  2: 'id(303),data(0),amount(1),name(&aUncommon Jetpack)'
+  3: 'id(303),data(0),amount(1),name(&9Rare Jetpack)'
+  4: 'id(303),data(0),amount(1),name(&cEpic Jetpack)'
+  5: 'id(303),data(0),amount(1),name(&dLegendary Jetpack)'

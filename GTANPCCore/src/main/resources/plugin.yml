@@ -1,0 +1,6 @@
+name: GTANPCCore
+description: NPC manager for GTAMC
+website: www.gtacraft.me
+authors: [harry5573]
+main: me.gtacraft.npccore.GTANPCCore
+version: 1.0

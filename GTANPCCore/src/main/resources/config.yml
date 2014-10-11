@@ -1,0 +1,37 @@
+################################################
+#                 GTANPCCore                   #
+#                                              #
+#                Developed by                  #
+#                 harry5573                    #
+#                                              #
+#                                              #
+#           http://www.gtacraft.me             #
+#                mc.gtacraft.me                #
+################################################
+
+# Configure the passive NPC's
+passivenpcs:
+   # Should we spawn passive NPC's?
+   enabled: true
+   # The chance to spawn
+   chancetospawn: 100
+   # How many passive NPC's should we place in a chunk on chunkload if the above chance was met?
+   onchunkloadplace: 1
+
+# Configure the gangster mobs
+gangstermobs:
+   # Should we spawn gangsters?
+   enabled: true
+   # The chance to spawn
+   chancetospawn: 25
+   # How many gangsters should we place in a chunk on chunkload if the above chance was met?
+   onchunkloadplace: 1
+
+# Configure the police officers
+policeofficers:
+   # Should we spawn police officers?
+   enabled: true
+   # The chance to spawn
+   chancetospawn: 5
+   # How many police officers should we place in a chunk on chunkload if the above chance was met?
+   onchunkloadplace: 1

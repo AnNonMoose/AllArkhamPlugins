@@ -1,0 +1,12 @@
+name: GTAEconomy
+author: LeakedSource
+softdepend: [GPDA]
+main: me.gtacraft.economy.GTAEconomy
+version: 1.0
+commands:
+  bal:
+    aliases: [balance, money, checkbalance, $, cash, bank]
+  eco:
+    aliases: [economy, admineco, ecoadmin]
+  withdraw:
+    aliases: [takemoney, cashout, getcash]

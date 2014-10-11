@@ -1,0 +1,7 @@
+name: GTA-Respawn
+version: 0.0.1
+main: me.gtacraft.plugins.gtarespawn.GTARespawn
+authors: [LeakedSource]
+commands:
+  addrespawnlocation:
+    aliases: [addhospital, linkhospital, ah, lh, arl]

@@ -1,0 +1,10 @@
+name: Safezone
+version: 0.0.1
+main: me.gtacraft.plugins.safezone.Safezone
+author: LeakedSource
+softdepend: [WorldGuard]
+commands:
+  createsafezone:
+    aliases: [addsafezone]
+  safezone:
+    aliases: [spawn]
